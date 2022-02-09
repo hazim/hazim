@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning JavaScript basics
+- 😄 Pronouns: he/him/his
+
 <!--
 **hazim/hazim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
