@@ -1,6 +1,7 @@
 ### Hi there 👋 
 
-- 🌱 I’m currently learning JavaScript basics
+- 🔭 I’m currently working through the Codeworks 🥾⛺️ pre-course material.
+- 🌱 I’m currently learning some JavaScript basics
 - 😄 Pronouns: he/him/his
 
 :octocat:
