@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working through the Codeworks 🥾⛺️ pre-course material.
-- 🌱 I’m currently learning some JavaScript basics
+- 🔭 I’m currently working through Codeworks 🥾⛺️ pre-course material.
+- 🌱 Learning JavaScript basics
 - 😄 Pronouns: he/him/his
 
 :octocat:
