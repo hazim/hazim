@@ -8,7 +8,7 @@
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 -->
 
-- 💻 I’m currently working through Codeworks 🥾⛺️ pre-course material.
+<!-- - 💻 I’m currently working through Codeworks 🥾⛺️ pre-course material. -->
 - 📖 Learning JavaScript
 - 😄 Pronouns: he/him/his
 
