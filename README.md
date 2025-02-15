@@ -12,10 +12,10 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 <!-- - 💻 I’m currently working through Codeworks 🥾⛺️ pre-course material. -->
 - 📖 Learning JavaScript
 - 🌱 Currently learning: **Astro**
+- 🌍 Languages: **English, Arabic, and Hungarian**
+- 🔭 Working on: **my Astro powered blog**
 
 <!--
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
 - 📫 How to reach me: **[your email address or other contact information]**
 - ⚡ Fun fact: **[a fun fact about yourself]**
 - 😄 Pronouns: he/him/his
