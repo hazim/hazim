@@ -1,4 +1,5 @@
 # Hi there, I'm Hazim! 👋
+he/him/his
 
 <!-- /![Banner Image](your_banner_image_url_here) -->
 
@@ -10,15 +11,14 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 <!-- - 💻 I’m currently working through Codeworks 🥾⛺️ pre-course material. -->
 - 📖 Learning JavaScript
-- 😄 Pronouns: he/him/his
-
+- 🌱 Currently learning: **Astro**
 
 <!--
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
 - 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **[programming languages and human languages you speak]**
 - 📫 How to reach me: **[your email address or other contact information]**
 - ⚡ Fun fact: **[a fun fact about yourself]**
+- 😄 Pronouns: he/him/his
 -->
 
 <!--
