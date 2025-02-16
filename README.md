@@ -1,4 +1,4 @@
-# Hi there, I'm Hazim! 👋
+# Hi there, I am Hazim! 👋
 he/him/his
 
 <!-- /![Banner Image](your_banner_image_url_here) -->
